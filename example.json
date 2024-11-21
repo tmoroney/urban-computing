@@ -1,0 +1,30 @@
+{
+    "deviceCount": 8,
+    "location": {
+        "latitude": 37.7749,
+        "longitude": -122.4194
+    },
+    "nearbyAttractionsCount": 5,
+    "nearbyAttractionsList": [
+        {
+            "name": "Golden Gate Bridge",
+            "distance": 1.2
+        },
+        {
+            "name": "Alcatraz Island",
+            "distance": 2.5
+        },
+        {
+            "name": "Fisherman's Wharf",
+            "distance": 0.5
+        },
+        {
+            "name": "Chinatown",
+            "distance": 0.3
+        },
+        {
+            "name": "Lombard Street",
+            "distance": 0.7
+        }
+    ]
+}
